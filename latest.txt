@@ -5,3 +5,8 @@ available as a toggle in settings
 -rosy (classic amy) got added as an 
 additional survivor selecting her 
 blocks normal amy and vice versa
+
+for now it still downloads the
+v1  variant, wait for the
+update if you want to play 
+metal mkii and rosy
