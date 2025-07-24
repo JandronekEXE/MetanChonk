@@ -1,1 +1,6 @@
-hue hue hue
+release @2~
+
+-metal sonic received a new moveset available
+as a toggle in settings
+-rosy (classic amy) got added as an additional survivor
+selecting her block normal amy and vice versa
