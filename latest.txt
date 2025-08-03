@@ -4,5 +4,5 @@ release @1.69~
 available as a toggle in settings
 -rosy (classic amy) got added as an 
 additional survivor
--stardust speedway as an extramp map
-it will receive a unique gimmick later on
+-stardust speedway as an extra
+map it will receive a unique gimmick later on
